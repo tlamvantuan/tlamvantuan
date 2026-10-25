@@ -47,20 +47,27 @@ Technical Collaboration	Translating business needs into developer-friendly speci
 - BABOK Guide v3 — business analysis knowledge areas and techniques.
 - IIBA ECBA — certification preparation goal (not yet certified).
 - Strengthening skills in requirements traceability, acceptance criteria, stakeholder communication and UAT support.
-🛠️ Tools & Technical Foundation
+## 🛠️ Technical Foundation
+
 <div align="center">
 
-BA · Modeling · Design
-<img alt="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" />
+### 🎨 BA · Modeling · Design
 
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
 
+**Figma · Draw.io · Visual Paradigm · Canva**
 
+<br/>
 
-Development · API · Databases
-<img alt="Java, Spring Boot, MySQL, Git, GitHub, IntelliJ IDEA, VS Code, Postman" src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode,postman&theme=dark&perline=8" />
+### 💻 Development · API · Databases
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode,postman&theme=dark&perline=8" alt="Development Tech Stack" />
+
+**Java · Spring Boot · MySQL · Git · GitHub · IntelliJ · VS Code · Postman**
 
 </div>
 
+---
 🚀 Featured Technical Projects
 <!-- Replace these placeholders with public repositories that you own. Do not publish confidential FPT IS materials. -->
 
