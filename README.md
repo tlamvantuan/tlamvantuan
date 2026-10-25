@@ -52,39 +52,29 @@ Technical Collaboration	Translating business needs into developer-friendly speci
 - IIBA ECBA: Certification preparation goal (not yet certified).
 - Improving requirements traceability, acceptance criteria, stakeholder communication, and UAT support.
 🛠️ Technical Foundation
-## 🛠️ Technical Foundation
-
 <div align="center">
 
-### 🎨 Business Analysis · Modeling · Design
+🎨 Business Analysis · Modeling · Design
+<img src="https://img.shields.io/badge/Figma-242938?style=for-the-badge&amp;logo=figma&amp;logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/Draw.io-242938?style=for-the-badge&amp;logo=diagramsdotnet&amp;logoColor=F08705" alt="Draw.io" />
+<img src="https://img.shields.io/badge/Visual%20Paradigm-242938?style=for-the-badge&amp;logoColor=white" alt="Visual Paradigm" />
 
-<img src="https://img.shields.io/badge/Figma-242938?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-<img src="https://img.shields.io/badge/Draw.io-242938?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="Draw.io" />
-<img src="https://img.shields.io/badge/Visual%20Paradigm-242938?style=for-the-badge&logoColor=white" alt="Visual Paradigm" />
+💻 Development · API · Databases
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode,postman&amp;theme=dark&amp;perline=8" alt="Java, Spring Boot, MySQL, Git, GitHub, IntelliJ IDEA, VS Code, Postman" />
 
-<br/>
-
-### 💻 Development · API · Databases
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode,postman&theme=dark&perline=8" alt="Java, Spring Boot, MySQL, Git, GitHub, IntelliJ IDEA, VS Code, Postman" />
-
-<br/>
-
-<sub>Combining business analysis with technical expertise to bridge business needs and software solutions.</sub>
+<p><sub>Combining business analysis with technical expertise to bridge business needs and software solutions.</sub></p>
 
 </div>
 
----
-
 🚀 Featured Technical Projects
-<!-- Replace these example rows with actual public repositories that you own. -->
+<!-- Replace example rows with links to actual public repositories you own. -->
 
 Project (example)	Description	Tech
 Backend API Project	REST API with CRUD, validation, and database integration.	Java · Spring Boot · SQL
 Java Web Application	Server-side web application with MVC architecture.	Java · Servlet/JSP · JDBC
 
 
-These are placeholders, not verified personal projects. Replace them with links to your real repositories. Do not publish confidential FPT IS materials.
+Note: These are placeholders, not verified personal projects. Replace them with your real repositories. Do not publish confidential FPT IS materials.
 
 📊 GitHub Analytics
 <div align="center">
@@ -107,8 +97,8 @@ These are placeholders, not verified personal projects. Replace them with links 
 <div align="center">
 
 <a href="https://github.com/tlamvantuan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-171B22?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<p>Thanks for visiting! ✨</p>
 
-Thanks for visiting! ✨
 <img width="100%" alt="Dark footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111318,50:242938,100:111318&amp;height=110&amp;section=footer" />
 
 </div>
